@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236119257719",
+    "project_id": "jatayu-6d2c5",
+    "storage_bucket": "jatayu-6d2c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236119257719:android:62d5d5fb65ff83c2cb8c72",
+        "android_client_info": {
+          "package_name": "com.animusit.jatayuvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236119257719-uo45so31fcu53t2cm5mm40eoknp0lhas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtdpoFHNlfQprdpRr3Zg1LxM46aDsJwXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236119257719-uo45so31fcu53t2cm5mm40eoknp0lhas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
