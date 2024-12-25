@@ -4,7 +4,7 @@
 
 
 ## 🖥️ Screenshots
-![Banner](assets/jatayu-ss0.png)
+![Banner](assets/jatayu-ss0.jpg)
 ![Screen](assets/jatayu-ss1.png)
 ![Screen](assets/jatayu-ss2.png)
 ![Screen](assets/jatayu-ss3.png)
