@@ -2,17 +2,14 @@
 
 **Jatayu VPN** is a free VPN application designed to provide secure, private, and unrestricted internet access. Whether you're trying to escape data throttling, avoid bandwidth limitations, or simply browse privately, Jatayu VPN has you covered.
 
-![Jatayu VPN Logo](assets/jatayu_logo.png)
+
 ## 🖥️ Screenshots
-
-### Login Screen  
-![Login Screen](assets/login_screen.png)
-
-### Dashboard  
-![Dashboard](assets/dashboard.png)
-
-### Connection Status  
-![Connection Status](assets/connection_status.png)
+(assets/jatayu-ss0.png)
+(assets/jatayu-ss1.png)
+(assets/jatayu-ss2.png)
+(assets/jatayu-ss3.png)
+(assets/jatayu-ss4.png)
+(assets/jatayu-ss5.png)
 
 
 ---
