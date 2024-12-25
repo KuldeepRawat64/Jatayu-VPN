@@ -4,12 +4,12 @@
 
 
 ## 🖥️ Screenshots
-(assets/jatayu-ss0.png)
-(assets/jatayu-ss1.png)
-(assets/jatayu-ss2.png)
-(assets/jatayu-ss3.png)
-(assets/jatayu-ss4.png)
-(assets/jatayu-ss5.png)
+![Banner](assets/jatayu-ss0.png)
+![Screen](assets/jatayu-ss1.png)
+![Screen](assets/jatayu-ss2.png)
+![Screen](assets/jatayu-ss3.png)
+![Screen](assets/jatayu-ss4.png)
+![Screen](assets/jatayu-ss5.png)
 
 
 ---
