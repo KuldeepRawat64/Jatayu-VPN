@@ -57,24 +57,12 @@
 ## 💻 **Supported Platforms**
 
 - Android
-- iOS
-- Windows
-- macOS
-- Linux
 
 ---
 
 ## 🤝 **Contributing**
 
 We welcome contributions from the community! Please check our [Contribution Guidelines](CONTRIBUTING.md).
-
----
-
-## 📞 **Support**
-
-- **Website:** [www.jatayuvpn.com](https://www.jatayuvpn.com)
-- **Support Email:** support@jatayuvpn.com
-- **Community Forum:** [Join our community](https://forum.jatayuvpn.com)
 
 ---
 
